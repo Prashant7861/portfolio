@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 10px;
+}
+
+.nav{
+display: flex;
+justify-content: space-between;
+}
+
+.logo{
+width: 10px;
+}
